@@ -1,0 +1,255 @@
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleados.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosCargos.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\source\repos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmVentaBoleta.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.dll
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleados.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosCargos.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\TiendaVideojuegos\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleados.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosCargos.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.dll
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleados.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosCargos.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\PROYECTO EDITAR\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleados.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosCargos.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\Anthony\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.dll
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\Tienda Videojuegos SEMIFINAL\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\Anthony\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.dll
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\Trabajo final DROMA\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.dll
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\TRABAJO TERMINADO PII\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe.config
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\Google.Protobuf.dll
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.xml
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmEmpleadosRegistro.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmLogin.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmMenuPrincipal.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductos.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosGenero.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosPlataforma.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProductosRegistro.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmProductosStock.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.FrmProveedores.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Presentacion.FrmBoleta.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.Properties.Resources.resources
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.csproj.CopyComplete
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.exe
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\obj\Debug\TiendaDeVideojuegos.pdb
+C:\Users\antho\Desktop\SlnTiendaDeVideojuegos\TiendaDeVideojuegos\bin\Debug\AbuEhabHelper.dll
